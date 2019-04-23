@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.freddyssimanca.clasesudistrital2018">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="ClasesUDistrital"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ActImageView" />
+        <activity android:name=".ActIntroduccion" />
+        <activity android:name=".ActTextView" />
+        <activity android:name=".ActRecibir" />
+        <activity android:name=".ActEnviar" />
+        <activity android:name=".ActToggleButton" />
+        <activity android:name=".ActCheck" />
+        <activity android:name=".ActRadioGrup" />
+        <activity android:name=".ActSpinner" />
+        <activity android:name=".ActSeekBar" />
+        <activity android:name=".ActListView" />
+        <activity android:name=".ActScrollView" />
+        <activity android:name=".ActPrueba" />
+        <activity android:name=".ActMenuBD" />
+        <activity android:name=".ActMenu" />
+        <activity android:name=".ActMediaController" />
+        <activity android:name=".ActPregunta" />
+        <activity android:name=".ActVideoView" />
+        <activity android:name=".ActCuadroDialogo" />
+        <activity android:name=".ActDialogoImagen" />
+        <activity
+            android:name=".ActMenuDrawer"
+            android:label="@string/title_activity_act_menu_drawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ActWebView">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActOrientacion" />
+        <activity android:name=".ActTemperatura" />
+        <activity android:name=".ActLuz" />
+        <activity android:name=".ActProximidad" />
+        <activity android:name=".ActAcelerometro" />
+        <activity android:name=".ActIntens" />
+        <activity android:name=".ActMenuSensores"></activity>
+    </application>
+
+</manifest>

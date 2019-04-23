@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/opcion1" android:title="Opción Uno" android:orderInCategory="100"/>
+    <item android:id="@+id/opcion3" android:title="Opción Tres" android:orderInCategory="120"/>
+    <item android:id="@+id/opcion4" android:title="Opción Cuatro" android:orderInCategory="130"/>
+    <item
+        android:id="@+id/opcion2"
+        android:orderInCategory="110"
+        android:title="Opción Dos" />
+
+</menu>

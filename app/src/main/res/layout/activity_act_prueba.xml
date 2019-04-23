@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActPrueba">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.  Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error. Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.  Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error. Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.  Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error."
+                    tools:text="
+
+Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error.
+Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.
+
+Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error.
+Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.
+
+Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error.
+Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.
+
+Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error.
+Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.
+
+Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error.
+Mi problema actual es de como poder extraer un texto de un listview personalizado. En vez de extraer el texto extrae un valor numérico pero en String, un ejemplo el texto es chocolate y en vez de extraer chocolate extrae 0 o puede ser uno mayor. Mi punto de vista es que en vez de extraer el texto extrae la posición ¿no se si estoy en lo cierto?.
+
+Y porque me refiero a personalizado personalizado: por la razón de que mi código me retornaba el valor correcto o bien en un listview con un adaptador ordinario no uno personalizado y al implementar el personalizado para mostrar imágenes me da este error.
+" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
